@@ -27,7 +27,8 @@ Cada archivo contiene:
 - **Python**  
 - **Pandas** para la manipulación de datos  
 - **Matplotlib** para la visualización gráfica   
-
+- **Jupyter Notebook** para la ejecución y documentación del análisis
+  
 ## 📋 Pasos del análisis
 
 1. **Importación de datos**  
